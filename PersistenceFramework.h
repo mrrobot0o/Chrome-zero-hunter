@@ -262,7 +262,7 @@ private:
     PersistenceResult establishViaBrowserWebNFCIsolation();
     PersistenceResult establishViaBrowserWebSerialIsolation();
     PersistenceResult establishViaBrowserWebHIDIsolation();
-    PersistenceResult establishViaBrowserWebXRIso();
+    PersistenceResult establishViaBrowserWebXRIsolation();
 };
 
 } // namespace ChromeZeroHunter
